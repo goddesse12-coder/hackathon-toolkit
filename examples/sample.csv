@@ -1,0 +1,6 @@
+record_id,group,units,defects
+001,A,100,2
+002,A,200,4
+003,B,50,5
+003,B,50,5
+004,B,,0

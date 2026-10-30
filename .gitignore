@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+# Real task data and outputs belong outside this public repository.
+private-work/
+task-data/
+task-output/
+*.log
